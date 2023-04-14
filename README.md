@@ -1,4 +1,5 @@
 ### Hi, I'm Rafal 👋
+#### I'm a student of Computer Science and Intelligent Systems.
 Technologies I use:
 
 
