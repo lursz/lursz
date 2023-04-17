@@ -32,7 +32,7 @@ Technologies I use:
   ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   
 <!--  TOP LANGUAGES -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lursz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lursz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Trophys -->
 <!-- <div align="center"><img height="150px" src="https://github-profile-trophy.vercel.app/?username=lursz&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/></div> -->
