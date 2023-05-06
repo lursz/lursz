@@ -1,5 +1,5 @@
 ### Hi, I'm Rafal 👋
-#### I'm a student of Computer Science and Intelligent Systems.
+I study Computer Science and Intelligent Systems at AGH University Of Science and Technology in Cracow
 Technologies I use:
 
 
