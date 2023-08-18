@@ -1,6 +1,6 @@
 ### Hi, I'm Rafal 👋
 I study Computer Science and Intelligent Systems at AGH University Of Science and Technology in Cracow  
-Technologies I use:
+Technologies I've used:
 
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
